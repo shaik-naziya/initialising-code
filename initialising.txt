@@ -1,1 +1,2 @@
-this is initialising comangs
+this is initialisng commands
+added new commands
